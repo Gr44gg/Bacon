@@ -1,0 +1,44 @@
+/************** Tag selectors ****************/
+
+h1 {
+   color:red;
+   font-size: 200px;
+ }
+ h1:hover {
+background-color :black;
+
+ }
+
+img:hover {
+  background-color: gold;
+}
+
+
+
+/****************** Class selectors **************/
+.kolya
+{
+  font-size: 69px;
+}
+.kolya:active {background-color: pink}
+
+.bacon
+{
+  background-color: green;
+}
+
+.broccoli
+{
+  background-color: red;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+
+/***************** Id selectors ****************/
+#heading {
+color: blue;
+
+}
